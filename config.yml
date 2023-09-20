@@ -1,14 +1,14 @@
 languageCode:           "en"
-title:                  "Flowbite Admin Dashboard"
-# baseURL:                "http://localhost:1313"
-baseURL:                "https://flowbite-admin-dashboard.vercel.app/"
+title:                  "Admin Dashboard"
+# baseURL:              "http://localhost:1313"
+baseURL:                "https://nextcloud-three.vercel.app//"
 enableInlineShortcodes: true
 canonifyURLs: true
 
 params:
-  homepage: "https://flowbite.com/"
-  authors: Themesberg
-  social_image_path: images/og-image.png
+  homepage: "https://nextai.co.in/"
+  authors: 
+  social_image_path: images/
 
 markup:
   goldmark:
